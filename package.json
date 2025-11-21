@@ -1,0 +1,24 @@
+{
+  "name": "@grinwiz/query-builder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./sql": "./sql/index.js",
+    "./mongo": "./mongo/index.js"
+  },
+  "keywords": [
+    "query",
+    "queyr-builder",
+    "utils",
+    "helper",
+    "database",
+    "sql",
+    "mongodb",
+    "mysql",
+    "postgresql"
+  ],
+  "author": "SUJWN",
+  "license": "MIT",
+  "description": ""
+}
